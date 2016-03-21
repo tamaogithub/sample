@@ -1,0 +1,51 @@
+<resources>
+
+  <style name="TapFeedback">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:background">@drawable/bg_feedback</item>
+    <item name="android:clickable">true</item>
+  </style>
+
+  <style name="Text">
+    <item name="android:textSize">@dimen/text_medium</item>
+    <item name="android:textColor">@color/black</item>
+    <item name="android:lines">1</item>
+    <item name="android:ellipsize">end</item>
+  </style>
+
+  <style name="Text.Title">
+    <item name="android:textSize">@dimen/text_medium</item>
+    <item name="android:textColor">@color/black</item>
+    <item name="android:textStyle">bold</item>
+  </style>
+
+  <style name="Text.Sub">
+    <item name="android:textSize">@dimen/text_small</item>
+    <item name="android:textColor">@color/grey600</item>
+  </style>
+
+  <style name="BaseListView">
+    <item name="android:clipToPadding">false</item>
+    <item name="android:divider">@color/grey200</item>
+    <item name="android:dividerHeight">1dp</item>
+    <item name="android:fadingEdge">none</item>
+    <item name="android:footerDividersEnabled">false</item>
+    <item name="android:listSelector">@drawable/bg_feedback</item>
+    <item name="android:scrollbarStyle">outsideOverlay</item>
+    <item name="android:scrollingCache">false</item>
+  </style>
+
+  <style name="Button">
+    <item name="android:clickable">true</item>
+    <item name="android:gravity">center</item>
+    <item name="android:textSize">@dimen/text_medium</item>
+    <item name="android:padding">@dimen/spacing</item>
+  </style>
+
+  <style name="Button.Theme">
+    <item name="android:background">@drawable/btn_theme_rounded</item>
+    <item name="android:textColor">@color/white</item>
+  </style>
+
+</resources>

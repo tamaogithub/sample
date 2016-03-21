@@ -1,0 +1,18 @@
+<resources>
+  <string name="app_name">Facebook SDK 4 Sample</string>
+  <string name="login">ログイン</string>
+  <string name="photo">Photo</string>
+  <string name="name">Name</string>
+  <string name="birthday">Birthday</string>
+  <string name="id">ID</string>
+  <string name="gender">Gender</string>
+  <string name="email">E-mail</string>
+
+  <string name="share">シェア</string>
+
+  <string name="share_dialog">Share by dialog</string>
+  <string name="share_auto">Share automatic</string>
+  <string name="share_photo_auto">Share photo automatic</string>
+  <string name="share_auto_completed">Auto share completed!</string>
+  <string name="share_auto_failed">Auto share failed!</string>
+</resources>
