@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Picture Puzzle</string>
+    <string name="chronometer_format">%s</string>
+    <string name="complete_button">Congratulations!おめでとう</string>
+    <string name="complete_title">Complete:完成</string>
+    <string name="shuffle">Shuffle:シャッフル</string>
+</resources>
